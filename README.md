@@ -1,6 +1,6 @@
 <!-- Top Image (Rectangle) -->
 <p align="center">
-  <img src="https://frostware.vercel.app/logo.png" alt="Rectangle Image">
+  <img src="https://s6.ezgif.com/tmp/ezgif-65e125cbe9c4c.gif" alt="Rectangle Image">
 </p>
 
 ---
@@ -37,10 +37,14 @@ I have collaborated with many developers. Check them out below!
 ## 🔹 Frostware Executor  
 
 <p align="center">
-  <img src="https://frostware.vercel.app/logo.png" alt="Rectangle Image">
+  <img src="https://s6.ezgif.com/tmp/ezgif-65e125cbe9c4c.gif" alt="Rectangle Image">
 </p>
 
 **Frostware** is a **Roblox executor utility** for users. As part of the team, we invite you to join us!  
 
 🔗 **Join our Discord:**  
-👉 [GetFrost Discord Server](https://discord.gg/GetFrost)
+👉 [GetFrost Discord Server]
+```https://discord.gg/GetFrost```
+🔗 **Our website:**
+👉 [GetFrost Website]
+```https://getfrost.xyz/```
