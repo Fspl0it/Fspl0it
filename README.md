@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://yt3.ggpht.com/l9MRAFrRy6fuQ3mWkDYXTH7ruBgvsOUWanVUCe2aNuLNemqG8X8-LGNZNVUbuCMP6ZOh3q8w=s160-c-k-c0x00ffffff-no-rj" alt="Square Image">
+  <img src="https://i.pinimg.com/736x/fe/8d/2a/fe8d2a29a58505c80818625bb4f51c8d.jpg" alt="Square Image">
 </p>
 
 ### About Me  
