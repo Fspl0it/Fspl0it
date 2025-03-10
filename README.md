@@ -44,7 +44,7 @@ I have collaborated with many developers. Check them out below!
 
 🔗 **Join our Discord:**  
 👉 [GetFrost Discord Server]
-```https://discord.gg/GetFrost```
+(https://discord.gg/GetFrost)
 🔗 **Our website:**
 👉 [GetFrost Website]
-```https://getfrost.xyz/```
+(https://getfrost.xyz/)
